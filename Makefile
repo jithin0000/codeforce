@@ -1,2 +1,2 @@
 all:
-	g++ words_too_long.cpp -o main && ./main
+	g++ nextround.cpp -o main && ./main
