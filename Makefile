@@ -1,2 +1,2 @@
 all:
-	g++ nextround.cpp -o main && ./main
+	g++ beautifull_matrix.cpp -o main && ./main
