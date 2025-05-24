@@ -3,7 +3,7 @@ CXX = g++
 CXXFLAGS = -std=c++11 -Wall -Wextra -pedantic
 
 # Project files
-SRCS = helpful_maths.cpp
+SRCS = word_capitalization.cpp
 OBJS = $(SRCS:.cpp=.o)
 TARGET = main
 
